@@ -8,7 +8,7 @@
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-### Hor to run
+### How to run
 npm install
 npm run dev
 
