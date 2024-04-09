@@ -11,7 +11,7 @@ const Footer = () => {
       </div>
       <div className='flex gap-8 text-2xl'>
         <a href="https://www.linkedin.com/in/donovan-romero"><FontAwesomeIcon className='hover:-translate-y-1 hover:text-blue-700 ease-in duration-150 transition-all' icon={faLinkedin}/></a>
-        <a href=""><FontAwesomeIcon className='hover:-translate-y-1 hover:text-purple-700 ease-in duration-150 transition-all' icon={faGithub}/></a>
+        <a href="https://github.com/nsvonod12"><FontAwesomeIcon className='hover:-translate-y-1 hover:text-purple-700 ease-in duration-150 transition-all' icon={faGithub}/></a>
         <a href="mailto:donovanre1200@gmail.com"><FontAwesomeIcon className='hover:-translate-y-1 hover:text-red-700 ease-in duration-150 transition-all' icon={faEnvelope}/></a>
       </div>
     </div>
